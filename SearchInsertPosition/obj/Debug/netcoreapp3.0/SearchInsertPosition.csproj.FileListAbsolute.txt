@@ -1,0 +1,11 @@
+C:\MyPCFolder\Local Projects\General\leetcode-problems\SearchInsertPosition\obj\Debug\netcoreapp3.0\SearchInsertPosition.csprojAssemblyReference.cache
+C:\MyPCFolder\Local Projects\General\leetcode-problems\SearchInsertPosition\obj\Debug\netcoreapp3.0\SearchInsertPosition.AssemblyInfoInputs.cache
+C:\MyPCFolder\Local Projects\General\leetcode-problems\SearchInsertPosition\obj\Debug\netcoreapp3.0\SearchInsertPosition.AssemblyInfo.cs
+C:\MyPCFolder\Local Projects\General\leetcode-problems\SearchInsertPosition\bin\Debug\netcoreapp3.0\SearchInsertPosition.exe
+C:\MyPCFolder\Local Projects\General\leetcode-problems\SearchInsertPosition\bin\Debug\netcoreapp3.0\SearchInsertPosition.deps.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\SearchInsertPosition\bin\Debug\netcoreapp3.0\SearchInsertPosition.runtimeconfig.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\SearchInsertPosition\bin\Debug\netcoreapp3.0\SearchInsertPosition.runtimeconfig.dev.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\SearchInsertPosition\bin\Debug\netcoreapp3.0\SearchInsertPosition.dll
+C:\MyPCFolder\Local Projects\General\leetcode-problems\SearchInsertPosition\bin\Debug\netcoreapp3.0\SearchInsertPosition.pdb
+C:\MyPCFolder\Local Projects\General\leetcode-problems\SearchInsertPosition\obj\Debug\netcoreapp3.0\SearchInsertPosition.dll
+C:\MyPCFolder\Local Projects\General\leetcode-problems\SearchInsertPosition\obj\Debug\netcoreapp3.0\SearchInsertPosition.pdb
