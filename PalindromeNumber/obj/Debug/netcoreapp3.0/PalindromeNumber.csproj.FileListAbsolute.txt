@@ -1,0 +1,11 @@
+C:\MyPCFolder\Local Projects\General\leetcode-problems\PalindromeNumber\bin\Debug\netcoreapp3.0\PalindromeNumber.exe
+C:\MyPCFolder\Local Projects\General\leetcode-problems\PalindromeNumber\bin\Debug\netcoreapp3.0\PalindromeNumber.deps.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\PalindromeNumber\bin\Debug\netcoreapp3.0\PalindromeNumber.runtimeconfig.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\PalindromeNumber\bin\Debug\netcoreapp3.0\PalindromeNumber.runtimeconfig.dev.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\PalindromeNumber\bin\Debug\netcoreapp3.0\PalindromeNumber.dll
+C:\MyPCFolder\Local Projects\General\leetcode-problems\PalindromeNumber\bin\Debug\netcoreapp3.0\PalindromeNumber.pdb
+C:\MyPCFolder\Local Projects\General\leetcode-problems\PalindromeNumber\obj\Debug\netcoreapp3.0\PalindromeNumber.csprojAssemblyReference.cache
+C:\MyPCFolder\Local Projects\General\leetcode-problems\PalindromeNumber\obj\Debug\netcoreapp3.0\PalindromeNumber.AssemblyInfoInputs.cache
+C:\MyPCFolder\Local Projects\General\leetcode-problems\PalindromeNumber\obj\Debug\netcoreapp3.0\PalindromeNumber.AssemblyInfo.cs
+C:\MyPCFolder\Local Projects\General\leetcode-problems\PalindromeNumber\obj\Debug\netcoreapp3.0\PalindromeNumber.dll
+C:\MyPCFolder\Local Projects\General\leetcode-problems\PalindromeNumber\obj\Debug\netcoreapp3.0\PalindromeNumber.pdb

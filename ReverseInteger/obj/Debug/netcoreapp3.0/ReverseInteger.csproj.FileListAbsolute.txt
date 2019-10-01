@@ -1,0 +1,11 @@
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ReverseInteger\bin\Debug\netcoreapp3.0\ReverseInteger.exe
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ReverseInteger\bin\Debug\netcoreapp3.0\ReverseInteger.deps.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ReverseInteger\bin\Debug\netcoreapp3.0\ReverseInteger.runtimeconfig.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ReverseInteger\bin\Debug\netcoreapp3.0\ReverseInteger.runtimeconfig.dev.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ReverseInteger\bin\Debug\netcoreapp3.0\ReverseInteger.dll
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ReverseInteger\bin\Debug\netcoreapp3.0\ReverseInteger.pdb
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ReverseInteger\obj\Debug\netcoreapp3.0\ReverseInteger.csprojAssemblyReference.cache
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ReverseInteger\obj\Debug\netcoreapp3.0\ReverseInteger.AssemblyInfoInputs.cache
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ReverseInteger\obj\Debug\netcoreapp3.0\ReverseInteger.AssemblyInfo.cs
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ReverseInteger\obj\Debug\netcoreapp3.0\ReverseInteger.dll
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ReverseInteger\obj\Debug\netcoreapp3.0\ReverseInteger.pdb
