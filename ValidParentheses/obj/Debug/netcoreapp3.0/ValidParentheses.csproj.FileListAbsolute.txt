@@ -1,0 +1,11 @@
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ValidParentheses\bin\Debug\netcoreapp3.0\ValidParentheses.exe
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ValidParentheses\bin\Debug\netcoreapp3.0\ValidParentheses.deps.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ValidParentheses\bin\Debug\netcoreapp3.0\ValidParentheses.runtimeconfig.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ValidParentheses\bin\Debug\netcoreapp3.0\ValidParentheses.runtimeconfig.dev.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ValidParentheses\bin\Debug\netcoreapp3.0\ValidParentheses.dll
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ValidParentheses\bin\Debug\netcoreapp3.0\ValidParentheses.pdb
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ValidParentheses\obj\Debug\netcoreapp3.0\ValidParentheses.csprojAssemblyReference.cache
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ValidParentheses\obj\Debug\netcoreapp3.0\ValidParentheses.AssemblyInfoInputs.cache
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ValidParentheses\obj\Debug\netcoreapp3.0\ValidParentheses.AssemblyInfo.cs
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ValidParentheses\obj\Debug\netcoreapp3.0\ValidParentheses.dll
+C:\MyPCFolder\Local Projects\General\leetcode-problems\ValidParentheses\obj\Debug\netcoreapp3.0\ValidParentheses.pdb
