@@ -5,20 +5,13 @@ namespace AddTwoNumbers
 {
     class Program
     {
+        // https://leetcode.com/problems/add-two-numbers/
+        /*
+            You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
+            You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+        */
         static void Main(string[] args)
-        {
-            // ListNode a1 = new ListNode(2);
-            // ListNode a2 = new ListNode(4);
-            // ListNode a3 = new ListNode(3);
-            // a1.next = a2;
-            // a2.next = a3;
-
-            // ListNode b1 = new ListNode(5);
-            // ListNode b2 = new ListNode(6);
-            // ListNode b3 = new ListNode(4);
-            // b1.next = b2;
-            // b2.next = b3;
-            
+        {         
             ListNode a1 = new ListNode(9);
             ListNode a2 = new ListNode(4);
             ListNode a3 = new ListNode(3);

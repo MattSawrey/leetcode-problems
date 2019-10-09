@@ -4,6 +4,9 @@ namespace MergeSortedLists
 {
     class Program
     {
+        // https://leetcode.com/problems/merge-two-sorted-lists/
+        // Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
+
         static void Main(string[] args)
         {
             // Defining list node 1
@@ -41,12 +44,8 @@ namespace MergeSortedLists
             g2.next = h2;
             //1->3->4
 
-            Console.WriteLine(a.ToString());
-            Console.WriteLine(a2.ToString());
-
             Solution solution = new Solution();
             Console.WriteLine(solution.MergeTwoLists(a, a2));
-            Console.ReadLine();
         }
     }
 
