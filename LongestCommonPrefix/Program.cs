@@ -36,26 +36,31 @@ namespace LongestCommonPrefix
 
         public static string LongestCommonPrefix(string[] strs)
         {
-            char[] commonPrefixCharArray = null;
+            if (strs.Length == 0 || Array.IndexOf(strs, "") != -1)
+                return "";
+
+            string commonPrefixString = "";
             for (int i = 0; i < strs.Length; i++)
             {
                 if (i == 0)
                 {
-                    commonPrefixCharArray = strs[i].ToCharArray();
+                    commonPrefixString = strs[i];
                     continue;
                 }
-                char[] charArray = strs[i].ToCharArray();
-                for (int x = 0; x < commonPrefixCharArray.Length; x++)
+                string comparisonString = strs[i];
+                for (int x = 0; x < commonPrefixString.Length; x++)
                 {
-                    //if the compare to array 
-                    if (x > charArray.Length - 1 || commonPrefixCharArray[x] != charArray[x])
+                    if (x > comparisonString.Length - 1 || commonPrefixString[x] != comparisonString[x])
                     {
-                        Array.Resize(ref commonPrefixCharArray, x);
+                        commonPrefixString = commonPrefixString.Substring(0, x);
                         continue;
                     }
+
+                    if (commonPrefixString.Length == 0)
+                        break;
                 }
             }
-            return new string(commonPrefixCharArray);
+            return commonPrefixString;
         }
     }
 }
