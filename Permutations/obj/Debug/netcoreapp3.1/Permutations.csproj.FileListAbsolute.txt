@@ -1,0 +1,11 @@
+C:\MyPCFolder\Local Projects\General\leetcode-problems\Permutations\bin\Debug\netcoreapp3.1\Permutations.exe
+C:\MyPCFolder\Local Projects\General\leetcode-problems\Permutations\bin\Debug\netcoreapp3.1\Permutations.deps.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\Permutations\bin\Debug\netcoreapp3.1\Permutations.runtimeconfig.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\Permutations\bin\Debug\netcoreapp3.1\Permutations.runtimeconfig.dev.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\Permutations\bin\Debug\netcoreapp3.1\Permutations.dll
+C:\MyPCFolder\Local Projects\General\leetcode-problems\Permutations\bin\Debug\netcoreapp3.1\Permutations.pdb
+C:\MyPCFolder\Local Projects\General\leetcode-problems\Permutations\obj\Debug\netcoreapp3.1\Permutations.csprojAssemblyReference.cache
+C:\MyPCFolder\Local Projects\General\leetcode-problems\Permutations\obj\Debug\netcoreapp3.1\Permutations.AssemblyInfoInputs.cache
+C:\MyPCFolder\Local Projects\General\leetcode-problems\Permutations\obj\Debug\netcoreapp3.1\Permutations.AssemblyInfo.cs
+C:\MyPCFolder\Local Projects\General\leetcode-problems\Permutations\obj\Debug\netcoreapp3.1\Permutations.dll
+C:\MyPCFolder\Local Projects\General\leetcode-problems\Permutations\obj\Debug\netcoreapp3.1\Permutations.pdb

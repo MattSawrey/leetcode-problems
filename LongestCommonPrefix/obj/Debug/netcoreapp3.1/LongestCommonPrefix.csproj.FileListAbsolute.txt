@@ -1,0 +1,13 @@
+C:\MyPCFolder\Local Projects\General\leetcode-problems\LongestCommonPrefix\bin\Debug\netcoreapp3.1\LongestCommonPrefix.exe
+C:\MyPCFolder\Local Projects\General\leetcode-problems\LongestCommonPrefix\bin\Debug\netcoreapp3.1\LongestCommonPrefix.deps.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\LongestCommonPrefix\bin\Debug\netcoreapp3.1\LongestCommonPrefix.runtimeconfig.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\LongestCommonPrefix\bin\Debug\netcoreapp3.1\LongestCommonPrefix.runtimeconfig.dev.json
+C:\MyPCFolder\Local Projects\General\leetcode-problems\LongestCommonPrefix\bin\Debug\netcoreapp3.1\LongestCommonPrefix.dll
+C:\MyPCFolder\Local Projects\General\leetcode-problems\LongestCommonPrefix\bin\Debug\netcoreapp3.1\LongestCommonPrefix.pdb
+C:\MyPCFolder\Local Projects\General\leetcode-problems\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.csprojAssemblyReference.cache
+C:\MyPCFolder\Local Projects\General\leetcode-problems\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.csproj.CoreCompileInputs.cache
+C:\MyPCFolder\Local Projects\General\leetcode-problems\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.AssemblyInfoInputs.cache
+C:\MyPCFolder\Local Projects\General\leetcode-problems\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.AssemblyInfo.cs
+C:\MyPCFolder\Local Projects\General\leetcode-problems\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.dll
+C:\MyPCFolder\Local Projects\General\leetcode-problems\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.pdb
+C:\MyPCFolder\Local Projects\General\leetcode-problems\LongestCommonPrefix\obj\Debug\netcoreapp3.1\LongestCommonPrefix.genruntimeconfig.cache
