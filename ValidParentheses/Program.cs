@@ -33,7 +33,7 @@ namespace ValidParentheses
             {
                 var result = solution.IsValid(tests[i].TestString);
                 var wasTestSuccessfull = result == tests[i].ExpectedValue;
-                
+
                 Console.WriteLine($"Test {i} has {(wasTestSuccessfull ? "succeeded" : "failed.")}");
             }
         }
@@ -41,31 +41,31 @@ namespace ValidParentheses
 
     public class Solution
     {
-        static char[] OpeningParentheses = new char [] { '(', '[', '{' };
+        static char[] OpeningParentheses = new char[] { '(', '[', '{' };
 
         public bool IsValid(string s)
         {
             var chars = s.ToCharArray();
-            if(chars.Length == 0)
+            if (chars.Length == 0)
                 return true;
 
             Stack<char> expectedClosingParentheses = new Stack<char>();
             for (int i = 0; i < chars.Length; i++)
             {
                 // Add opening parenthesis to list
-                if(isOpeningParentheses(chars[i]))
+                if (isOpeningParentheses(chars[i]))
                 {
                     expectedClosingParentheses.Push(GetClosingParenthesesFromOpening(chars[i]));
                     continue;
                 }
 
                 // If not opening parentheses, must be closing. Therefore check it correctly closes the latest opening
-                if(expectedClosingParentheses.Count == 0)
+                if (expectedClosingParentheses.Count == 0)
                 {
                     // found the incorrect closing parentheses
-                    return false;                    
+                    return false;
                 }
-                else if(chars[i] == expectedClosingParentheses.Peek())
+                else if (chars[i] == expectedClosingParentheses.Peek())
                 {
                     expectedClosingParentheses.Pop();
                     continue;
@@ -84,7 +84,7 @@ namespace ValidParentheses
         {
             for (int i = 0; i < OpeningParentheses.Length; i++)
             {
-                if(OpeningParentheses[i] == value)
+                if (OpeningParentheses[i] == value)
                     return true;
             }
             return false;
@@ -92,7 +92,7 @@ namespace ValidParentheses
 
         private char GetClosingParenthesesFromOpening(char openingParentheses)
         {
-            switch(openingParentheses)
+            switch (openingParentheses)
             {
                 case '(':
                     return ')';

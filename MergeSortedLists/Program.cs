@@ -49,27 +49,28 @@ namespace MergeSortedLists
         }
     }
 
-    public class Solution 
+    public class Solution
     {
         // Takes in initial nodes of Linked Lists.
-        public ListNode MergeTwoLists(ListNode l1, ListNode l2) 
+        public ListNode MergeTwoLists(ListNode l1, ListNode l2)
         {
             // end the merging if either node is null, as the fact that the remaining list is sorted means the remaining list is ordered correctly.
-            if(l1 == null)
+            if (l1 == null)
                 return l2;
-            else if(l2 == null)
+            else if (l2 == null)
                 return l1;
-            
-            if(l1.val <= l2.val)
+
+            if (l1.val <= l2.val)
             {
                 MergeTwoLists(l1.next, l2);
-                if(l1.next == null || l2.val < l1.next.val)
+                if (l1.next == null || l2.val < l1.next.val)
                     l1.next = l2;
                 return l1;
-            } else
+            }
+            else
             {
                 MergeTwoLists(l2.next, l1);
-                if(l2.next == null || l1.val < l2.next.val)
+                if (l2.next == null || l1.val < l2.next.val)
                     l2.next = l1;
                 return l2;
             }
@@ -77,15 +78,15 @@ namespace MergeSortedLists
     }
 
     // ListNode Definition
-    public class ListNode 
-     {
-         public int val;
-         public ListNode next;
-         public ListNode(int x) { val = x; }
+    public class ListNode
+    {
+        public int val;
+        public ListNode next;
+        public ListNode(int x) { val = x; }
 
-         public override string ToString()
-         {
-             return val.ToString() + (next != null ? ", " + next.ToString() : "");
-         }
+        public override string ToString()
+        {
+            return val.ToString() + (next != null ? ", " + next.ToString() : "");
+        }
     }
 }
